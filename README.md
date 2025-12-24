@@ -32,23 +32,45 @@
 </p>
 
 ---
+## 👨‍💻 About the Author
 
-## 👨‍💻 About Me
+This repository is maintained by a software engineer with hands-on experience building **AI-driven and full-stack systems** through **research work and industry internships**.
 
-**Software Engineer** with hands-on experience building **production-grade AI and full-stack systems** through industry internships and research projects. Specialized in **computer vision, SAR image processing**, and **machine learning model deployment**. Proven ability to design scalable REST APIs, optimize model performance, and deploy cloud-native applications using **Python, React, AWS, and Docker**.
+The primary areas of focus include **computer vision and SAR image processing**, spanning data preprocessing, model training, and deployment workflows.  
+The goal across projects is to design **clean, explainable systems** and turn experimental models into **reliable, usable software**.
 
-### 🎯 Current Role
-**Research Assistant - AI/ML & Signal Processing** at **SRMIST Chennai** (Jan 2025 – Jun 2025)
-- Preprocessing large SAR and radar datasets using Python, NumPy, and OpenCV
-- Training YOLOv8-based models for target detection with optimized inference
-- Implementing ESRGAN-based super-resolution for SAR image enhancement
-- Building computer vision pipelines with TensorFlow and PyTorch
+---
 
-### 💼 Recent Experience
-**Front-End Web Development Intern** at **IBM Innovation Centre** (Aug 2024 – Oct 2024)
-- Developed 12+ responsive React components improving mobile performance
-- Integrated RESTful APIs using Node.js with optimized async workflows
-- Collaborated in Agile sprints with cross-functional teams
+## 🎯 Research Experience  
+**Research Assistant – AI/ML & Signal Processing**  
+**SRM Institute of Science and Technology (SRMIST), Chennai** | *Jan 2025 – Jun 2025*
+
+- Worked on preprocessing and analysis of **SAR and radar datasets** using Python, NumPy, and OpenCV  
+- Trained and evaluated **YOLOv8-based models** for target detection with attention to inference efficiency  
+- Implemented **ESRGAN-based super-resolution** techniques for SAR image enhancement  
+- Built and experimented with **computer vision pipelines** using TensorFlow and PyTorch  
+
+---
+
+## 💼 Industry Experience  
+**Front-End Web Development Intern**  
+**IBM Innovation Centre** | *Aug 2024 – Oct 2024*
+
+- Developed **responsive React components** with a focus on usability and performance  
+- Integrated frontend applications with **REST APIs** using Node.js  
+- Worked in **Agile development cycles**, collaborating with designers and backend engineers  
+
+---
+
+## 🧠 Engineering Approach
+
+Across projects in this repository, the focus is on:
+
+- Designing systems that are **explainable, testable, and reproducible**
+- Prioritizing **architecture and correctness** over quick demos
+- Making trade-offs explicit and avoiding black-box behavior
+- Building software that can be **understood, debugged, and extended** by others
+
 
 ---
 

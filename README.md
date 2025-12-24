@@ -1,13 +1,4 @@
 <p align="center">
-  <img 
-    src=""
-    alt="Bala Maneesh Ayanala | Software Engineer • AI/ML Researcher"
-    width="100%"
-  />
-</p>
-
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Bala+Maneesh+Ayanala;Software+Engineer+%7C+AI+Specialist;SAR+Image+Processing+Expert;Computer+Vision+%26+Deep+Learning;Production+ML+Systems+Developer" alt="Typing SVG" />
 </p>
 
@@ -36,7 +27,7 @@
 
 ## 🌟 About Me
 
-Software engineer specializing in **AI-powered systems** and **computer vision**, with hands-on experience in **SAR image processing** and full-stack development. Passionate about building **production-grade, scalable systems** that solve real-world problems.
+Software engineer specialising in **AI-powered systems** and **computer vision**, with hands-on experience in **SAR image processing** and full-stack development. Passionate about building **production-grade, scalable systems** that solve real-world problems.
 
 - 🔭 Currently working on SAR Target Detection Systems
 - 🌱 Learning MLOps, Advanced Computer Vision, and Kubernetes
@@ -57,23 +48,13 @@ Software engineer specializing in **AI-powered systems** and **computer vision**
 - Built end-to-end **computer vision pipelines** with TensorFlow and PyTorch
 
 ### Front-End Web Development Intern
-**IBM Innovation Centre** | *August 2024 – October 2024*
+**IBM Innovation Centre** | *August 2025 – October 2025*
 
 - Developed **responsive React components** with REST API integration
 - Collaborated in **Agile sprints** with cross-functional teams
-- Optimized frontend performance and user experience
+- Optimised frontend performance and user experience
 
 ---
-
-## 📘 Featured Projects
-
-[![SAR Target Detection Engine](https://github-readme-stats.vercel.app/api/pin/?username=Balama2520&repo=SAR-Target-Detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)](https://github.com/Balama2520)
-
-[![Satellite Image Denoising](https://github-readme-stats.vercel.app/api/pin/?username=Balama2520&repo=Satellite-Denoising&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)](https://github.com/Balama2520)
-
-[![Agriculture Intelligence Platform](https://github-readme-stats.vercel.app/api/pin/?username=Balama2520&repo=Agri-Intelligence&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)](https://github.com/Balama2520)
-
-[![VedaSphere Portal](https://github-readme-stats.vercel.app/api/pin/?username=Balama2520&repo=VedaSphere&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)](https://github.com/Balama2520)
 
 <p align="center">
   <a href="https://github.com/Balama2520?tab=repositories">
@@ -130,7 +111,7 @@ Software engineer specializing in **AI-powered systems** and **computer vision**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balama2520&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9&langs_count=8" width="49%" />
 </p>
 
-**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+**Note:** Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
 
 ---
 
@@ -164,7 +145,7 @@ SRM Institute of Science and Technology (SRMIST), Chennai  *2021 – 2025* |
 - ✅ Selected for Smart India Hackathon 2025
 - 🔄 Complete AI/ML research at SRMIST
 - 🔄 Deploy SAR detection system to production
-- 🔄 Graduate with B.Tech degree
+- 🔄 Graduate with a B.Tech degree
 
 **H2 2025**
 - 📋 Secure AI/ML engineering role

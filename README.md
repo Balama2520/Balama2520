@@ -1,323 +1,202 @@
 <p align="center">
-  <img src="BANNER_IMAGE_URL" alt="Bala Maneesh – Software Engineer | AI & Data Systems" width="100%" />
+  <img 
+    src="https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>/main/assets/banner.png"
+    alt="Bala Maneesh Ayanala | Software Engineer • AI/ML Researcher"
+    width="100%"
+  />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Bala+Maneesh+Ayanala+%F0%9F%91%8B;Software+Engineer+%7C+AI+%26+Data+Systems;SAR+Image+Processing+Expert;Computer+Vision+%26+Deep+Learning;Building+Production-Grade+AI+Systems;AWS+%7C+Docker+%7C+PyTorch+%7C+React" alt="Typing SVG" />
-</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-SAR_Image_Processing-2E9EF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Specialty-Computer_Vision-00C896?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Role-Software_Engineer-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Research-AI%2FML-9B59B6?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Bala+Maneesh+Ayanala;Software+Engineer+%7C+AI+Specialist;SAR+Image+Processing+Expert;Computer+Vision+%26+Deep+Learning;Production+ML+Systems+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://abms-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-2E9EF7?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Portfolio-2E9EF7?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/bala-maneesh-ayanala-702582266">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:abalamaneesh@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Balama2520">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Balama2520&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Balama2520?label=Followers&style=for-the-badge&color=00C896" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Balama2520?label=Stars&style=for-the-badge&color=FF6B6B" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=Balama2520&label=Profile%20Views&color=2E9EF7&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Balama2520?label=Followers&style=flat-square&color=00C896" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Balama2520?label=Stars&style=flat-square&color=FF6B6B" alt="stars" />
 </p>
 
 ---
-## 👨‍💻 About the Author
 
-This repository is maintained by a software engineer with hands-on experience building **AI-driven and full-stack systems** through **research work and industry internships**.
+## 🌟 About Me
 
-The primary areas of focus include **computer vision and SAR image processing**, spanning data preprocessing, model training, and deployment workflows.  
-The goal across projects is to design **clean, explainable systems** and turn experimental models into **reliable, usable software**.
+Software engineer specializing in **AI-powered systems** and **computer vision**, with hands-on experience in **SAR image processing** and full-stack development. Passionate about building **production-grade, scalable systems** that solve real-world problems.
 
----
-
-## 🎯 Research Experience  
-**Research Assistant – AI/ML & Signal Processing**  
-**SRM Institute of Science and Technology (SRMIST), Chennai** | *Jan 2025 – Jun 2025*
-
-- Worked on preprocessing and analysis of **SAR and radar datasets** using Python, NumPy, and OpenCV  
-- Trained and evaluated **YOLOv8-based models** for target detection with attention to inference efficiency  
-- Implemented **ESRGAN-based super-resolution** techniques for SAR image enhancement  
-- Built and experimented with **computer vision pipelines** using TensorFlow and PyTorch  
+- 🔭 Currently working on SAR Target Detection Systems
+- 🌱 Learning MLOps, Advanced Computer Vision, and Kubernetes
+- 👯 Open to collaborations in AI/ML and Computer Vision projects
+- 💬 Ask me about Python, Deep Learning, and Image Processing
+- 📫 Reach me at: abalamaneesh@gmail.com
 
 ---
 
-## 💼 Industry Experience  
-**Front-End Web Development Intern**  
-**IBM Innovation Centre** | *Aug 2024 – Oct 2024*
+## 💼 Professional Experience
 
-- Developed **responsive React components** with a focus on usability and performance  
-- Integrated frontend applications with **REST APIs** using Node.js  
-- Worked in **Agile development cycles**, collaborating with designers and backend engineers  
+### Research Assistant – AI/ML & Signal Processing
+**SRM Institute of Science and Technology (SRMIST)** | *January 2025 – June 2025*
 
----
+- Architected preprocessing pipelines for **SAR and radar datasets** using Python, NumPy, and OpenCV
+- Developed and optimized **YOLOv8-based models** for target detection with enhanced inference performance
+- Implemented **ESRGAN-based super-resolution** techniques for SAR image enhancement
+- Built end-to-end **computer vision pipelines** with TensorFlow and PyTorch
 
-## 🧠 Engineering Approach
+### Front-End Web Development Intern
+**IBM Innovation Centre** | *August 2024 – October 2024*
 
-Across projects in this repository, the focus is on:
-
-- Designing systems that are **explainable, testable, and reproducible**
-- Prioritizing **architecture and correctness** over quick demos
-- Making trade-offs explicit and avoiding black-box behavior
-- Building software that can be **understood, debugged, and extended** by others
-
+- Developed **responsive React components** with REST API integration
+- Collaborated in **Agile sprints** with cross-functional teams
+- Optimized frontend performance and user experience
 
 ---
 
-## 🛠️ Technical Skills
+## 📘 Featured Projects
 
-### Programming & Core
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![SAR Target Detection Engine](https://github-readme-stats.vercel.app/api/pin/?username=Balama2520&repo=SAR-Target-Detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)](https://github.com/Balama2520)
+
+[![Satellite Image Denoising](https://github-readme-stats.vercel.app/api/pin/?username=Balama2520&repo=Satellite-Denoising&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)](https://github.com/Balama2520)
+
+[![Agriculture Intelligence Platform](https://github-readme-stats.vercel.app/api/pin/?username=Balama2520&repo=Agri-Intelligence&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)](https://github.com/Balama2520)
+
+[![VedaSphere Portal](https://github-readme-stats.vercel.app/api/pin/?username=Balama2520&repo=VedaSphere&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)](https://github.com/Balama2520)
+
+<p align="center">
+  <a href="https://github.com/Balama2520?tab=repositories">
+    <img src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-1F222E?style=for-the-badge&logoColor=white&logo=repo" alt="All Repositories" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### AI/ML & Computer Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-Production-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-Expert-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Proficient-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Advanced-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Expert-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Web Development & APIs
-![React](https://img.shields.io/badge/React-Production-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-Proficient-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-Expert-009688?style=for-the-badge)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Proficient-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Cloud & DevOps
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-Deployed-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-Used-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-Familiar-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Production-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Proficient-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Tools & Practices
-![Jupyter](https://img.shields.io/badge/Jupyter-Advanced-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-Daily-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile/Scrum-Practiced-0052CC?style=for-the-badge)
-
----
-
-## 🚀 Featured Technical Projects
-
-### 🛰️ SAR Target Detection Engine
-**Production-grade SAR target detection system**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-- End-to-end pipeline integrating denoising autoencoders with YOLOv8
-- Improved detection accuracy and reduced false positives through optimized preprocessing
-- Optimized inference performance for real-time applications
-- Deployed Dockerized REST APIs on AWS EC2 for scalable access
-
-[🔗 View Project](#) | [📂 Repository](#)
-
----
-
-### 📡 Satellite Image Denoising Suite
-**Multi-stage image enhancement pipeline**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-- Built multi-stage denoising pipeline using NLM, Gaussian, Bilateral filtering
-- Implemented FFT analysis for frequency domain processing
-- Applied deep learning models for advanced noise reduction
-- Improved image clarity for satellite analytics and computer vision applications
-
-[🔗 View Project](#) | [📂 Repository](#)
-
----
-
-### 🌾 Agriculture Intelligence Platform (Ongoing)
-**ML-powered crop disease detection system**
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-00C896?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6B6B?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-- Developing ML-based system for crop disease detection using real-world field data
-- Applied feature extraction, data preprocessing, and supervised learning models
-- Building practical recommendations for farmers
-- Focus on accessibility and deployment for agricultural communities
-
-[🔗 In Development](#) | [📂 Repository](#)
-
----
-
-### 🌐 VedaSphere – India's Live AI Portal
-**Real-time aggregated AI-powered portal**
-
+### Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-- Live news, weather, stocks, jobs, and travel data aggregation
-- AI assistant with context-aware responses
-- Efficient caching and update strategies
-- Optimized for Indian network conditions with responsive design
-
-[🔗 View Project](#) | [📂 Repository](#)
-
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Balama2520&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Balama2520&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Balama2520&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balama2520&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7" width="49%" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balama2520&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9&langs_count=10" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Balama2520&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balama2520&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9&langs_count=8" width="49%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Balama2520&theme=tokyonight" width="100%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Balama2520&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balama2520&bg_color=0D1117&color=2E9EF7&line=FF6B6B&point=2E9EF7&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-</p>
+**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Technology - Electronics and Communication Engineering**  
-SRM Institute of Science and Technology (SRMIST), Chennai  
-2021 – 2025 | CGPA: 7.0/10
+**Bachelor of Technology in Electronics and Communication Engineering**  
+SRM Institute of Science and Technology (SRMIST), Chennai  *2021 – 2025* | 
 
 **Relevant Coursework:** Digital Signal Processing, Machine Learning & AI, Computer Vision, Data Structures & Algorithms, Database Management Systems, Cloud Computing
 
 ---
 
-## 📜 Certifications
+## 🏆 Certifications & Achievements
 
+### Certifications
 - **AWS Cloud Practitioner** - Amazon Web Services
 - **Google Data Analytics** - Google
 - **IBM Web Developer** - IBM
 - **Databricks Generative AI** - Databricks
-- **Python Programming** - Multiple Platforms
 
----
-
-## 🏅 Leadership & Achievements
-
+### Achievements
+- **Smart India Hackathon 2025** - Selected (National-level)
 - **Community Head** - DSA Club at SRMIST
-- **Smart India Hackathon 2025** - Selected (National-level hackathon)
 - **NSS Volunteer** - National Service Scheme
-- Active contributor to coding communities and workshops
 
 ---
 
 ## 🎯 2025 Goals
 
-**Q1-Q2 2025**
-- ✅ Complete AI/ML research internship at SRMIST
-- ✅ Deploy SAR detection system to production
+**H1 2025**
 - ✅ Selected for Smart India Hackathon 2025
+- 🔄 Complete AI/ML research at SRMIST
+- 🔄 Deploy SAR detection system to production
 - 🔄 Graduate with B.Tech degree
-- 🔄 Launch Agriculture Intelligence Platform
 
-**Q3-Q4 2025**
-- 📋 Secure full-time AI/ML engineering role
-- 📋 Contribute to open-source computer vision projects
-- 📋 Publish research paper on SAR image processing
-- 📋 Mentor junior students in ML/AI
-
----
-
-## 🌱 Currently Learning
-
-![MLOps](https://img.shields.io/badge/MLOps-Learning-2E9EF7?style=for-the-badge)
-![Advanced CV](https://img.shields.io/badge/Advanced_Computer_Vision-Exploring-FF6B6B?style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Practicing-00C896?style=for-the-badge)
-![Research](https://img.shields.io/badge/Research_Publication-Working-9B59B6?style=for-the-badge)
+**H2 2025**
+- 📋 Secure AI/ML engineering role
+- 📋 Publish research on SAR image processing
+- 📋 Contribute to open-source CV projects
+- 📋 Launch Agriculture Intelligence Platform
 
 ---
 
-## 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Balama2520/Balama2520/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://abms-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Explore_My_Work-2E9EF7?style=for-the-badge" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-2E9EF7?style=for-the-badge&logoColor=white&logo=globe" />
   </a>
   <a href="https://linkedin.com/in/bala-maneesh-ayanala-702582266">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:abalamaneesh@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Get_In_Touch-EA4335?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Balama2520">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>💡 "Building production-grade AI systems that solve real-world problems" 💡</b>
+  <i>💡 Building production-grade AI systems that solve real-world problems 💡</i>
 </p>
 
 <p align="center">
   <i>Open to collaborations, internships, and full-time opportunities in AI/ML Engineering</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </p>

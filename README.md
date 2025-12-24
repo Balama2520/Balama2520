@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>/main/assets/banner.png"
+    src="unnamed.jpg"
     alt="Bala Maneesh Ayanala | Software Engineer • AI/ML Researcher"
     width="100%"
   />

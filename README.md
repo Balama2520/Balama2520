@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="unnamed.jpg"
+    src=""
     alt="Bala Maneesh Ayanala | Software Engineer • AI/ML Researcher"
     width="100%"
   />

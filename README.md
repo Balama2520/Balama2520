@@ -1,107 +1,174 @@
-<h1 align="center">Bala Maneesh Ayanala</h1>
-
 <p align="center">
-  <b>Software Engineer — AI & Data Systems</b>
+  <!-- Replace with your own banner -->
+  <img src="BANNER_IMAGE_URL" alt="Bala Maneesh – Local-first AI & Systems Engineer" />
 </p>
 
-<p align="center">
-  <a href="https://abms-portfolio.netlify.app">Portfolio</a> •
-  <a href="https://linkedin.com/in/bala-maneesh-ayanala-702582266">LinkedIn</a> •
-  <a href="mailto:abalamaneesh@gmail.com">Email</a>
-</p>
-
----
-
-I build **production-grade AI systems** and **computer vision pipelines** with a focus on **SAR image processing**, **deep learning deployment**, and **scalable architecture**.
-
-Currently: Research Assistant (AI/ML & Signal Processing) at SRMIST Chennai  
-Previously: Front-End Development Intern at IBM Innovation Centre
-
----
-
-## 🔧 What I work on
-
-- **SAR & satellite image processing** — denoising, super-resolution, target detection
-- **Computer vision pipelines** — YOLOv8, ESRGAN, OpenCV-based workflows  
-- **ML model deployment** — PyTorch, TensorFlow, REST APIs, Docker, AWS
-- **Full-stack systems** — React, Node.js, scalable backends
-
----
-
-## 🚀 Selected projects
-
-### SAR Target Detection Engine
-End-to-end detection system integrating denoising autoencoders with YOLOv8. Deployed as Dockerized REST API on AWS EC2.
-
-**Tech:** Python • PyTorch • YOLOv8 • ESRGAN • Docker • AWS
-
----
-
-### Satellite Image Denoising Suite
-Multi-stage pipeline using NLM, Gaussian, Bilateral filtering, FFT analysis, and deep learning for SAR/satellite enhancement.
-
-**Tech:** Python • OpenCV • TensorFlow • NumPy
-
----
-
-### Agriculture Intelligence Platform
-ML-based crop disease detection system using computer vision and supervised learning on real-world field data.
-
-**Tech:** Python • Machine Learning • Computer Vision
-
----
-
-### VedaSphere
-Real-time aggregated portal for news, weather, stocks, jobs, travel with AI assistant integration.
-
-**Tech:** React • Node.js • Express • MongoDB
-
----
-
-## 💼 Experience
-
-**SRMIST Chennai** — Research Assistant, AI/ML & Signal Processing  
-*Jan 2025 – Jun 2025*
-
-Preprocessing large SAR datasets, training YOLOv8 models, implementing ESRGAN super-resolution, building CV pipelines with TensorFlow/PyTorch.
-
-**IBM Innovation Centre** — Front-End Web Development Intern  
-*Aug 2024 – Oct 2024*
-
-Developed 12+ responsive React components, integrated RESTful APIs with Node.js, collaborated in Agile sprints.
-
----
-
-## 🎓 Education
-
-**B.Tech, Electronics and Communication Engineering**  
-SRM Institute of Science and Technology, Chennai  2021 – 2025 |
-
-**Certifications:** AWS Cloud Practitioner • Google Data Analytics • IBM Web Developer • Databricks Generative AI
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Hi, I’m Bala Maneesh Ayanala 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Balama2520&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balama2520&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" />
+  <b>Local-first AI</b> • Computer Vision • Full-stack Systems • Privacy-first Engineering
 </p>
 
 ---
 
-## 🏆 Achievements
-
-- **Smart India Hackathon 2025** — Selected (National-level)
-- **Community Head** — DSA Club at SRMIST
-- **NSS Volunteer** — National Service Scheme
+I build local-first AI systems and computer vision solutions with a strong focus on privacy, system design, and real-world engineering constraints.  
+If a system cannot be explained, profiled, and defended in a design review, it does not ship.
 
 ---
 
+## 🔧 What I build
+
+- 🤖 Privacy-first local AI assistants (Buddy AI) using Python, Ollama, and modular backends  
+- 🛰 Satellite & SAR image denoising and enhancement pipelines  
+- 🌐 High-performance web interfaces that stay fast under real load  
+- ⚙️ Full-stack systems with clean, testable architecture and clear interfaces  
+
+---
+
+## 🧠 Engineering mindset
+
+- Local-first > cloud-first when privacy and control matter  
+- Architecture before features, observability before “wow”  
+- Reproducibility over hype; benchmarked, not hand-waved  
+- Honest trade-offs, no “magic black boxes”  
+
+---
+
+## 🚀 Current focus
+
+- Hardening Buddy AI into a reliable, offline-friendly assistant  
+- Improving architecture, logging, and documentation so others can extend the system  
+- Turning research ideas (computer vision, denoising, local AI) into usable tools and services  
+
+---
+
+## 📊 GitHub at a glance
+
 <p align="center">
-  <i>Building systems I can confidently explain, debug, and defend.</i>
+  <!-- Stats card (you can keep or remove if you don’t want any external calls) -->
+  <img
+    src="GITHUB_STATS_IMAGE_URL"
+    alt="GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <sub>Open to collaborations and full-time opportunities in AI/ML Engineering</sub>
+  <!-- Top languages graph -->
+  <img
+    src="GITHUB_LANGS_IMAGE_URL"
+    alt="Top languages"
+  />
 </p>
+
+<p align="center">
+  <!-- Contribution / streak graph -->
+  <img
+    src="GITHUB_STREAK_IMAGE_URL"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+---
+
+## 🛠 Tech stack
+
+### Languages
+<p>
+  <img src="PYTHON_BADGE_IMAGE_URL" alt="Python" />
+  <img src="JAVASCRIPT_BADGE_IMAGE_URL" alt="JavaScript" />
+</p>
+
+### Frontend
+<p>
+  <img src="REACT_BADGE_IMAGE_URL" alt="React" />
+  <img src="HTML_BADGE_IMAGE_URL" alt="HTML5" />
+  <img src="CSS_BADGE_IMAGE_URL" alt="CSS3" />
+</p>
+
+### Backend & APIs
+<p>
+  <img src="NODE_BADGE_IMAGE_URL" alt="Node.js" />
+  <img src="EXPRESS_BADGE_IMAGE_URL" alt="Express" />
+</p>
+
+### AI / ML
+<p>
+  <img src="TENSORFLOW_BADGE_IMAGE_URL" alt="TensorFlow" />
+  <img src="PYTORCH_BADGE_IMAGE_URL" alt="PyTorch" />
+  <img src="OLLAMA_BADGE_IMAGE_URL" alt="Ollama" />
+</p>
+
+### DevOps / Tools
+<p>
+  <img src="DOCKER_BADGE_IMAGE_URL" alt="Docker" />
+  <img src="GIT_BADGE_IMAGE_URL" alt="Git" />
+</p>
+
+---
+
+## 🚀 Selected systems
+
+> I build systems that I can confidently explain, debug, and defend in a design review.
+
+### 🧠 Buddy AI – Local-first AI assistant
+- Privacy-first assistant with modular architecture and local models.  
+- Designed for control, observability, and explainability over black-box behavior.  
+
+<p>
+  <img src="BUDDY_AI_IMAGE_URL" alt="Buddy AI screenshot" width="600" />
+</p>
+
+---
+
+### 🛰 Satellite Image Denoising
+- SAR/satellite image denoising and enhancement pipeline for cleaner, more usable imagery.  
+- Focused on reproducible preprocessing that downstream models can trust.  
+
+<p>
+  <img src="SATELLITE_IMAGE_URL" alt="Satellite image denoising" width="600" />
+</p>
+
+---
+
+### 🌐 VedaSphere – Live AI Portal
+- All-in-one portal for live information and AI assistance.  
+- Built as a real-world system to handle multiple data sources and continuous updates.  
+
+<p>
+  <img src="VEDASPHERE_IMAGE_URL" alt="VedaSphere screenshot" width="600" />
+</p>
+
+---
+
+### 🪐 3D Interactive Portfolio
+- Recruiter-focused 3D web portfolio to showcase software engineering, AI/ML, and system design skills—not just visuals.  
+- Optimized for performance, accessibility, and real hiring use-cases.  
+
+<p>
+  <img src="PORTFOLIO_IMAGE_URL" alt="3D interactive portfolio" width="600" />
+</p>
+
+---
+
+## 🧩 System design snapshots
+
+<p>
+  <img src="BUDDY_AI_ARCH_URL" alt="Buddy AI Architecture Diagram" width="600" />
+</p>
+
+<p>
+  <img src="SATELLITE_ARCH_URL" alt="Satellite Denoising Pipeline Diagram" width="600" />
+</p>
+
+<p>
+  <img src="PORTFOLIO_ARCH_URL" alt="3D Portfolio Architecture Diagram" width="600" />
+</p>
+
+---
+
+## 🎯 How to read this profile
+
+This profile is designed to show:  
+- Real systems, not just cloned tutorials.  
+- A local-first, privacy-first approach to AI.  
+- A mindset that cares about architecture, observability, and honest trade-offs.

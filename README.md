@@ -24,7 +24,7 @@
 AI/ML engineer focused on **SAR image processing**, **computer vision**, and **production-grade ML systems**.  
 Currently building **SAR target detection pipelines** and full‑stack applications that solve real‑world problems.
 
-- 🔭 Working on SAR Target Detection Systems (YOLOv8 + ESRGAN)
+- 🔭 Working on SAR Target Detection Systems (YOLOv8 + DAE)
 - 🌱 Learning MLOps, advanced CV, and Kubernetes
 - 👯 Open to AI/ML & Computer Vision collaborations and roles
 - 📫 Reach me at: [abalamaneesh@gmail.com](mailto:abalamaneesh@gmail.com)
@@ -69,7 +69,7 @@ Currently building **SAR target detection pipelines** and full‑stack applicati
     alt="GitHub stats"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Balama2520&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Balama2520&theme=tokyonight&hide_border=true"
     width="49%"
     alt="GitHub streak"
   />
@@ -83,7 +83,6 @@ Currently building **SAR target detection pipelines** and full‑stack applicati
   />
 </p>
 
----
 
 ## 🎓 Education
 

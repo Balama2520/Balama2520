@@ -135,6 +135,18 @@ I'm an **AI/ML Engineer & Computer Vision Researcher** passionate about building
 
 ## 📊 **GitHub Statistics & Insights**
 
+```
+📊 GitHub Profile Statistics
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔥 45+ Contributions (Last Year)
+📚 9 Public Repositories  
+⭐ 6 Pinned Projects
+🚀 100% Open Source Contributor
+💾 15,000+ Lines of Code
+🎯 Advanced AI/ML Focus
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Balama2520&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=15" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balama2520&layout=compact&theme=dark&hide_border=true&border_radius=15" />

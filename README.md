@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Bala+Maneesh+Ayanala;AI+%26+Computer+Vision+Engineer;SAR+Image+Processing+Specialist;Production+ML+Systems+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Bala+Maneesh+Ayanala;AI+%26+Computer+Vision+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,9 +12,6 @@
   <a href="mailto:abalamaneesh@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Balama2520">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 ---
@@ -22,9 +19,9 @@
 ## 🌟 About Me
 
 AI/ML engineer focused on **SAR image processing**, **computer vision**, and **production-grade ML systems**.  
-Currently building **SAR target detection pipelines** and full‑stack applications that solve real‑world problems.
+Currently building SAR target detection pipelines and full‑stack applications that solve real‑world problems.
 
-- 🔭 Working on SAR Target Detection Systems (YOLOv8 + DAE)
+- 🔭 Working on SAR Target Detection Systems (YOLOv8 + ESRGAN)
 - 🌱 Learning MLOps, advanced CV, and Kubernetes
 - 👯 Open to AI/ML & Computer Vision collaborations and roles
 - 📫 Reach me at: [abalamaneesh@gmail.com](mailto:abalamaneesh@gmail.com)
@@ -63,31 +60,20 @@ Currently building **SAR target detection pipelines** and full‑stack applicati
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Balama2520&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-    width="49%"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=Balama2520&theme=tokyonight&hide_border=true"
-    width="49%"
-    alt="GitHub streak"
-  />
+  <a href="https://github.com/Balama2520/github-stats">
+    <img src="https://raw.githubusercontent.com/Balama2520/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats overview dark" />
+    <img src="https://raw.githubusercontent.com/Balama2520/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="GitHub languages dark" />
+    <img src="https://raw.githubusercontent.com/Balama2520/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub stats overview light" />
+    <img src="https://raw.githubusercontent.com/Balama2520/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="GitHub languages light" />
+  </a>
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balama2520&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    width="49%"
-    alt="Top languages"
-  />
-</p>
-
+---
 
 ## 🎓 Education
 
 **B.Tech in Electronics and Communication Engineering**  
-SRM Institute of Science and Technology (SRMIST), Chennai  • *2021 – 2025*  
+SRM Institute of Science and Technology (SRMIST), Chennai • *2021 – 2025*
 
 **Coursework:** Digital Signal Processing, Machine Learning & AI, Computer Vision, Data Structures & Algorithms, DBMS, Cloud Computing
 

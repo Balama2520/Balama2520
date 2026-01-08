@@ -57,7 +57,7 @@
 I'm an **AI/ML Engineer & Computer Vision Researcher** passionate about building production-grade systems that solve real-world problems. With deep expertise in **Synthetic Aperture Radar (SAR) imaging** and **advanced signal processing**, I bridge cutting-edge research with practical engineering.
 
 ### 🎯 **Current Focus**
-- 🔬 SAR Target Detection & Classification (YOLOv8 + ESRGAN)
+- 🔬 SAR Target Detection & Classification (YOLOv8 + DAE)
 - 🧠 Production-Grade ML Pipelines & MLOps
 - 🌐 Full-Stack AI Assistants with Real-Time Analytics
 - 📊 Advanced Data Visualization & System Design
@@ -103,7 +103,7 @@ I'm an **AI/ML Engineer & Computer Vision Researcher** passionate about building
 
 ## 📚 **Featured Projects**
 
-### 🚀 **SAR Target Detection Engine** [YOLOv8 + ESRGAN]
+### 🚀 **SAR Target Detection Engine** [YOLOv8 + DAE]
 **Advanced ML pipeline for Synthetic Aperture Radar image analysis**
 - ✅ Real-time target detection & classification
 - ✅ ESRGAN-based super-resolution enhancement
@@ -147,16 +147,6 @@ I'm an **AI/ML Engineer & Computer Vision Researcher** passionate about building
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Balama2520&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=15" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balama2520&layout=compact&theme=dark&hide_border=true&border_radius=15" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balama2520&theme=dark&hide_border=true" />
-</div>
-
----
 
 ## 🎓 **Education & Certifications**
 

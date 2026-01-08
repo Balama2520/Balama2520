@@ -44,7 +44,7 @@
 
 | Domain | Technologies | Expertise Level | Status |
 |--------|--------------|-----------------|--------|
-| 🤖 **AI/ML** | PyTorch, TensorFlow, YOLOv8, ESRGAN | ⭐⭐⭐⭐⭐ | 🔴 Active |
+| 🤖 **AI/ML** | PyTorch, TensorFlow, YOLOv8, DAE | ⭐⭐⭐⭐⭐ | 🔴 Active |
 | 👁️ **Computer Vision** | OpenCV, Scikit-Image, ImageProcessing | ⭐⭐⭐⭐⭐ | 🔴 Active |
 | 🛰️ **SAR Imaging** | Signal Processing, Deep Learning | ⭐⭐⭐⭐⭐ | 🔴 Active |
 | 💻 **Full-Stack Web** | React, Node.js, Express, REST APIs | ⭐⭐⭐⭐ | 🟢 Exploring |
@@ -128,7 +128,7 @@ I'm an **AI/ML Engineer & Computer Vision Researcher** passionate about building
 ### 📊 **Smart Mini Task Manager**
 **IBM-themed responsive task management application**
 - ✅ Built with React & Node.js
-- ✅ Real-time synchronization
+- ✅ Real-time synchronisation
 - ✅ Production-grade UI/UX
 
 ---

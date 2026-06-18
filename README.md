@@ -43,7 +43,7 @@
 
 | Project | Stack | Demo |
 |---------|-------|------|
-|** abms-portfolio ** | HTML, CSS, and JavaScript | [Live](https://balama2520.github.io/abms-portfolio/) |
+|**abms-portfolio** | HTML, CSS, and JavaScript | [Live](https://balama2520.github.io/abms-portfolio/) |
 | **Buddy AI** | LangChain, Ollama, RAG, React, Node.js | [Live](https://buddy-ai-assistant.netlify.app) |
 | **Giakaa CMS** | React, Node.js, PostgreSQL, MongoDB | [Live](https://o8m-giakaa-cms.vercel.app) |
 | **Smart Task Manager** | React, Node, MongoDB, JWT, PWA | [Live](https://bala-smart-task-manager.netlify.app) |

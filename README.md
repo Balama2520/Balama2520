@@ -22,7 +22,7 @@
            │   │   └── Live: o8m-giakaa-cms.vercel.app
            │   ├── 3. ✅ Smart Task Manager (MERN Stack)
            │   │   └── Live: bala-smart-task-manager.netlify.app
-           │   └── 4. 🎨 3D Portfolio (React/Three.js)
+           │   └── 4. 🎨 Portfolio (Html, Css and javascript)
            │       └── Live: abms-portfolio.netlify.app
            │
            ├── Experience
@@ -43,11 +43,10 @@
 
 | Project | Stack | Demo |
 |---------|-------|------|
-|**abms-portfolio** | HTML, CSS, and JavaScript | [Live](https://balama2520.github.io/abms-portfolio/) |
-| **Buddy AI** | LangChain, Ollama, RAG, React, Node.js | [Live](https://buddy-ai-assistant.netlify.app) |
+|**abms-portfolio** | HTML, CSS  and JavaScript | [Live](https://balama2520.github.io/abms-portfolio/) |
+| **Saarthi AI AI** | LangChain, Ollama, RAG, React, Node.js | [Live](https://saarthi-link.netlify.app/) |
 | **Giakaa CMS** | React, Node.js, PostgreSQL, MongoDB | [Live](https://o8m-giakaa-cms.vercel.app) |
 | **Smart Task Manager** | React, Node, MongoDB, JWT, PWA | [Live](https://bala-smart-task-manager.netlify.app) |
-| **3D Portfolio** | React, Three.js, Tailwind | [Live](https://abms-portfolio.netlify.app) |
 
 ### 📚 Publications
 

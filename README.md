@@ -25,7 +25,7 @@
 **Full-Stack Developer Intern — IBM SkillsBuild Program**  
 *IBM Innovation Centre for Education (ICE) | Aug 2025 – Oct 2025 | Remote*
 
-- Built MERN-stack automation dashboard centralizing 15+ project metrics, improving reporting efficiency by 25%
+- Built a MERN-stack automation dashboard centralising 15+ project metrics, improving reporting efficiency by 25%
 - Developed reusable React components and REST API integrations, reducing manual operational effort by 30%
 - Deployed on AWS EC2 with Docker containers and GitHub Actions CI/CD pipelines
 - Achieved 95+ Lighthouse performance scores across accessibility, performance, and best practices audits

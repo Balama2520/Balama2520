@@ -58,10 +58,7 @@
 **DevOps:** Docker, AWS EC2, GitHub Actions, CI/CD, Vercel, Netlify  
 
 ---
-## 📊 GitHub Contributions
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Balama2520&theme=github-compact)
----
 
 ## 📫 Open to Work
 

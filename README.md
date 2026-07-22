@@ -14,7 +14,7 @@
 | Project | Stack | Live | Description |
 |---------|-------|------|-------------|
 | **Saarthi Link** | React, FastAPI, ChromaDB, PostgreSQL | [Live](https://saarthi-link.netlify.app) | AI career assistant for Indian students — RAG-powered resume scoring, personalized learning roadmaps, job matching |
-| **AVR Shop** | React, Node.js, MongoDB, AI Assistant | [Live](https://avr-shop.vercel.app) | E-commerce + AI platform for farmers — fertilizer/pesticide catalog with expert advice |
+| **Avr Shop** | React, Node.js, MongoDB, AI Assistant | [Live](https://avr-shop.vercel.app) | E-commerce + AI platform for farmers — fertilizer/pesticide catalog with expert advice |
 | **Giakaa CMS** | React, Node.js, PostgreSQL, MongoDB, Docker | [Live](https://o8m-giakaa-cms.vercel.app) | Hybrid dual-database CMS — 40% API latency reduction, SEO-aware, XSS sanitized |
 | **Satellite Image Denoising** | Python, PyTorch, OpenCV | [Demo](https://huggingface.co/Balamaneesh2520) | ML-based SAR image denoising — 5,000+ images processed, IEEE research foundation |
 

@@ -13,9 +13,9 @@
 
 | Project | Stack | Live | Description |
 |---------|-------|------|-------------|
-| **Saarthi Link** | React, FastAPI, ChromaDB, PostgreSQL | [Live](https://saarthi-link.netlify.app) | AI career assistant for Indian students — RAG-powered resume scoring, personalized learning roadmaps, job matching |
+| **Saarthi Link** | React, FastAPI, ChromaDB, PostgreSQL | [Live](https://saarthi-link.netlify.app) | AI career assistant for Indian students — RAG-powered resume scoring, personalised learning roadmaps, job matching |
 | **Avr Shop** | React, Node.js, MongoDB, AI Assistant | [Live](https://avr-shop.vercel.app) | E-commerce + AI platform for farmers — fertilizer/pesticide catalog with expert advice |
-| **Giakaa CMS** | React, Node.js, PostgreSQL, MongoDB, Docker | [Live](https://o8m-giakaa-cms.vercel.app) | Hybrid dual-database CMS — 40% API latency reduction, SEO-aware, XSS sanitized |
+| **Giakaa CMS** | React, Node.js, PostgreSQL, MongoDB, Docker | [Live](https://o8m-giakaa-cms.vercel.app) | Hybrid dual-database CMS — 40% API latency reduction, SEO-aware, XSS sanitised |
 | **Satellite Image Denoising** | Python, PyTorch, OpenCV | [Demo](https://huggingface.co/Balamaneesh2520) | ML-based SAR image denoising — 5,000+ images processed, IEEE research foundation |
 
 ---
@@ -34,7 +34,7 @@
 **Research Assistant — AI & Computer Vision Lab**  
 *SRM Institute of Science and Technology (SRMIST) | Jan 2025 – Jun 2025 | Hybrid*
 
-- Published IEEE paper on SAR target detection using YOLOv8 and Denoising Autoencoders (92% mAP)
+- Published an IEEE paper on SAR target detection using YOLOv8 and Denoising Autoencoders (92% mAP)
 - Built satellite image denoising pipelines outperforming traditional filters (PSNR: 29.95, SSIM: 0.99)
 - Processed 5,000+ SAR images using Python, PyTorch, and OpenCV
 - Deployed interactive demo on HuggingFace for reproducible research

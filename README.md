@@ -1,6 +1,6 @@
 # Bala Maneesh Ayanala
 
-**Junior Full-Stack Developer | React • Node.js • TypeScript**
+**Junior Full Stack Developer · AI Engineer · IEEE Published | Open to Work**
 
 📍 Andhra Pradesh, India | Open to Bangalore • Hyderabad • Remote  
 📧 abalamaneesh@gmail.com  

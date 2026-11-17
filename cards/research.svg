@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="110" viewBox="0 0 1000 110" role="img" aria-label="IEEE Publication: SAR Military Target Detection, 92% mAP, YOLOv8"><defs></defs><style>
+.a{opacity:0;animation:rise .7s cubic-bezier(.2,.8,.2,1) forwards}
+.p{opacity:0;transform-box:fill-box;transform-origin:center;animation:pop .6s cubic-bezier(.2,.9,.3,1.3) forwards}
+.g{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:grow .9s ease-out forwards}
+.s{opacity:0;animation:swing 1s cubic-bezier(.2,.8,.2,1) forwards}
+.b{animation:pulse 1.8s ease-in-out infinite}
+.n{animation:nudge 1.6s ease-in-out infinite}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes pop{from{opacity:0;transform:scale(.6)}to{opacity:1;transform:scale(1)}}
+@keyframes grow{to{transform:scaleX(1)}}
+@keyframes swing{0%{opacity:0;transform:translateY(46px) rotate(-3deg)}60%{opacity:1;transform:translateY(-6px) rotate(.8deg)}100%{opacity:1;transform:none}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+@keyframes nudge{0%,100%{transform:translate(0,0)}50%{transform:translate(3px,-3px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;transform:none!important}}
+text{font-family:'Inter', 'Segoe UI', Helvetica, Arial, sans-serif}</style>
+<rect width="1000" height="110" rx="16" fill="#1e293b" stroke="#334155" stroke-width="1.5"/>
+
+<!-- left: IEEE badge -->
+<g class="a" style="animation-delay:0.10s">
+  <rect x="28" y="22" width="58" height="66" rx="10" fill="#1e1b4b" stroke="#6366f1" stroke-opacity=".5"/>
+  <text x="57" y="52" font-size="11" fill="#6366f1" text-anchor="middle" font-weight="700">IEEE</text>
+  <text x="57" y="68" font-size="9.5" fill="#94a3b8" text-anchor="middle">Xplore</text>
+  <text x="57" y="80" font-size="9" fill="#94a3b8" text-anchor="middle">2025</text>
+</g>
+
+<text class="a" x="104" y="44" font-size="16" fill="#f1f5f9" font-weight="700" style="animation-delay:0.20s">SAR Military Target Detection — YOLOv8 + Denoising Autoencoders</text>
+<text class="a" x="104" y="66" font-size="13" fill="#94a3b8" style="animation-delay:0.30s">Published on IEEE Xplore · 92% mAP accuracy · 5,000+ SAR images processed · PSNR 29.95 · SSIM 0.99</text>
+<text class="a" x="104" y="86" font-size="12" fill="#6366f1" style="animation-delay:0.40s">ieeexplore.ieee.org/document/11042387 · ResearchGate · HuggingFace Demo</text>
+
+<!-- right: ResearchGate chip -->
+<g class="a" style="animation-delay:0.50s">
+  <rect x="860" y="30" width="112" height="52" rx="10" fill="#052e16" stroke="#10b981" stroke-opacity=".5"/>
+  <text x="916" y="52" font-size="11" fill="#10b981" text-anchor="middle" font-weight="700">ResearchGate</text>
+  <text x="916" y="69" font-size="10" fill="#94a3b8" text-anchor="middle">+HuggingFace</text>
+</g>
+</svg>
